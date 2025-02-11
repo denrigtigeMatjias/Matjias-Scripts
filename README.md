@@ -7,7 +7,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/denrigtigeMatjias/Mat
 
 ## Games
 [Mining GO!](https://www.roblox.com/games/116434053579571/TESTING-Mining-GO) 🟢<br/>
-[Dig it](https://www.roblox.com/games/76455837887178/Dig-it) 🟡<br/>
 [Fisch](https://www.roblox.com/games/16732694052/Fisch) 🟢<br/>
 [Backrooms Drift](https://www.roblox.com/games/138365924124161/Backrooms-Drift-PAINTJOBS) 🟢<br/>
 [Egg Tree Incremental](https://www.roblox.com/games/15055025587/UPDATE-Egg-Tree-Incremental) 🟢<br/>
