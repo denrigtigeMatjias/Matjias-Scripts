@@ -9,11 +9,10 @@ local PlaceIds = {
     ["Universal GUI"] = {id = 0, url = ""},
 }
 
-local currentPlaceId = game.PlaceId
 local found = false
 
 for _, data in pairs(PlaceIds) do
-    if data.id == currentPlaceId then
+    if data.id == game.PlaceId then
         found = true
         loadstring(game:HttpGet(data.url))()
         break
