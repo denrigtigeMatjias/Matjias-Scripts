@@ -1,6 +1,5 @@
 local PlaceIds = {
     ["Mining Go"] = {id = 116434053579571, url = ""},
-    ["Bee Swarm Simulator"] = {id = 1537690962, url = ""},
     ["Dig It"] = {id = 76455837887178, url = ""},
     ["Fisch"] = {id = 16732694052, url = ""},
     ["Backroom Drifts"] = {id = 138365924124161, url = "https://raw.githubusercontent.com/denrigtigeMatjias/Matjias-Scripts/refs/heads/main/Backroom%20Drifts.lua"},
