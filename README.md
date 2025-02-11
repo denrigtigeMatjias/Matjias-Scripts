@@ -6,6 +6,7 @@ loadstring(game:HttpGet(""))()
 ```
 
 ## Games
+```js
 [Mining GO! 🟢](https://www.roblox.com/games/116434053579571/TESTING-Mining-GO)
 Dig It  🟡 // Needs update
 Fisch  🟢
@@ -13,7 +14,8 @@ Backroom Drifts  🟢
 Egg Tree Incremental  🟢
 Arsenal  🟢
 Miners Haven  🟢
-Universal 🟢 
+Universal 🟢
+```
 
 ## Discord
 ```js
