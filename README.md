@@ -21,4 +21,4 @@ discord.gg/2yAB9n77Uq
 ```
 
 ## Issues
-if you encounter any issue and you dont have a s*** executor then either report them here on github or in the discord
+if you encounter any issue and you dont have a s*** executor then either report them here on github or preferably in the discord
