@@ -6,7 +6,7 @@ loadstring(game:HttpGet(""))()
 ```
 
 ## Games
-[Mining GO! 🟢]https://www.roblox.com/games/116434053579571/TESTING-Mining-GO
+[Mining GO! 🟢](https://www.roblox.com/games/116434053579571/TESTING-Mining-GO)
 Dig It  🟡 // Needs update
 Fisch  🟢
 Backroom Drifts  🟢
