@@ -19,5 +19,5 @@ Universal 🟢
 
 ## Discord
 ```js
-https://discord.gg/2yAB9n77Uq
+discord.gg/2yAB9n77Uq
 ```
