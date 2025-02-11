@@ -2,7 +2,7 @@ yet another script hub
 
 ## Loadstring
 ```js
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/denrigtigeMatjias/Matjias-Scripts/refs/heads/main/Loader.lua"))()
 ```
 
 ## Games
