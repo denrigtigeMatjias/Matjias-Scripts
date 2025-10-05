@@ -21,11 +21,6 @@ for _, data in pairs(PlaceIds) do
 end
     
 if not found then
-    for _, data in pairs(PlaceIds) do
-        if data.id == 0 then
-            found = true
-            loadstring(game:HttpGet(data.url))()
-            break
-        end
-    end
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/denrigtigeMatjias/Matjias-Scripts/refs/heads/main/Universal%20GUI.lua"))()
+    found = true
 end
